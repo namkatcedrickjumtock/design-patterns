@@ -1,7 +1,7 @@
 ##### Design Patterns
 
-- [] Observer Pattern
-- [] Singleton Pattern
-- [] Facade Pattern
-- [] Factory Pattern
+-[] Observer Pattern
+-[] Singleton Pattern
+-[] Facade Pattern
+-[] Factory Pattern
 
